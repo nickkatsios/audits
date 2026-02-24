@@ -28,3 +28,9 @@
 | [Canon Guard](https://github.com/defi-wonderland/canon-guard) | Safe Guard | [📄](https://github.com/defi-wonderland/canon-guard/blob/dev/audits/2025-blackthorn.pdf) |
 | Lombard Bascule | Vault Wrapper | TBA |
 | Superfluid Update | Yield Extension | TBA |
+
+### Solo Audits
+
+| Protocol | Category | Report |
+|----------|----------|--------|
+| [Kaiju Finance](https://www.kaiju.fi/) | Lending with Revoling Credit | [📄](solo/Kaiju_Audit_Report_Final2.pdf) |
