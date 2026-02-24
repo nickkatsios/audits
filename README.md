@@ -33,4 +33,4 @@
 
 | Protocol | Category | Report |
 |----------|----------|--------|
-| [Kaiju Finance](https://www.kaiju.fi/) | Lending with Revoling Credit | [📄](solo/Kaiju_Audit_Report_Final.pdf) |
+| [Kaiju Finance](https://www.kaiju.fi/) | Lending with Revoling Credit | [📄](solo/Kaiju_Audit_Report.pdf) |
