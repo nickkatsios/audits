@@ -11,6 +11,7 @@
 
 | Contest | Platform | Category | Ranking 🏆 | Findings 🔎 |
 |---------|----------|----------|------------|-------------|
+| [Inverse Monolith Stablecoin](https://audits.sherlock.xyz/contests/1212) | Sherlock | Stablecoin | **#1**🏆| [1H, 4M](https://audits.sherlock.xyz/contests/1212?filter=results) |
 | [Mento v3](https://cantina.xyz/code/fe8e03b1-f8db-4698-8a21-44b3a862e434/overview/leaderboard) | Cantina | FX AMM | **#6** | [1M](https://cantina.xyz/code/fe8e03b1-f8db-4698-8a21-44b3a862e434/overview/leaderboard) |
 | [USG-Tangent](https://audits.sherlock.xyz/contests/1073) | Sherlock | Stablecoin | **#20** | [4M](https://audits.sherlock.xyz/contests/1073) |
 | [Super DCA](https://audits.sherlock.xyz/contests/1171) | Sherlock | Uniswap V4 Hook | **#27** | [3H](https://audits.sherlock.xyz/contests/1171) |
